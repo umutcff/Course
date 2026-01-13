@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\source\\repos\\Simulation 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|c:\\users\\student\\source\\repos\\simulation 2\\simulation 2\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|solutionrelative:simulation 2\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|c:\\users\\student\\source\\repos\\simulation 2\\simulation 2\\helpers\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|solutionrelative:simulation 2\\helpers\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|c:\\users\\student\\source\\repos\\simulation 2\\simulation 2\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|solutionrelative:simulation 2\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|c:\\users\\student\\source\\repos\\simulation 2\\simulation 2\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|solutionrelative:simulation 2\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|c:\\users\\student\\source\\repos\\simulation 2\\simulation 2\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|solutionrelative:simulation 2\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|c:\\users\\student\\source\\repos\\simulation 2\\simulation 2\\viewmodels\\coursegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|solutionrelative:simulation 2\\viewmodels\\coursegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|c:\\users\\student\\source\\repos\\simulation 2\\simulation 2\\viewmodels\\courseupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|solutionrelative:simulation 2\\viewmodels\\courseupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|c:\\users\\student\\source\\repos\\simulation 2\\simulation 2\\viewmodels\\coursecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|solutionrelative:simulation 2\\viewmodels\\coursecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|c:\\users\\student\\source\\repos\\simulation 2\\simulation 2\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|solutionrelative:simulation 2\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|c:\\users\\student\\source\\repos\\simulation 2\\simulation 2\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|solutionrelative:simulation 2\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|c:\\users\\student\\source\\repos\\simulation 2\\simulation 2\\areas\\admin\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|solutionrelative:simulation 2\\areas\\admin\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|c:\\users\\student\\source\\repos\\simulation 2\\simulation 2\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|solutionrelative:simulation 2\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|c:\\users\\student\\source\\repos\\simulation 2\\simulation 2\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22260B8B-6F71-4EE0-B020-D4ECEE6922B0}|Simulation 2\\Simulation 2.csproj|solutionrelative:simulation 2\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "Simulation 2\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "Simulation 2\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T09:17:40.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Simulation 2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Simulation 2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T09:07:21.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\ViewModels\\CourseUpdateVM.cs",
+              "RelativeDocumentMoniker": "Simulation 2\\ViewModels\\CourseUpdateVM.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\ViewModels\\CourseUpdateVM.cs",
+              "RelativeToolTip": "Simulation 2\\ViewModels\\CourseUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:38:30.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Simulation 2\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Models\\Teacher.cs",
+              "RelativeToolTip": "Simulation 2\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:17:13.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Helpers\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "Simulation 2\\Helpers\\ExtensionMethods.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Helpers\\ExtensionMethods.cs",
+              "RelativeToolTip": "Simulation 2\\Helpers\\ExtensionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:45:16.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Simulation 2\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Models\\Course.cs",
+              "RelativeToolTip": "Simulation 2\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:34:58.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\ViewModels\\CourseGetVM.cs",
+              "RelativeDocumentMoniker": "Simulation 2\\ViewModels\\CourseGetVM.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\ViewModels\\CourseGetVM.cs",
+              "RelativeToolTip": "Simulation 2\\ViewModels\\CourseGetVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:34:35.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Simulation 2\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Simulation 2\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:30:40.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\ViewModels\\CourseCreateVM.cs",
+              "RelativeDocumentMoniker": "Simulation 2\\ViewModels\\CourseCreateVM.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\ViewModels\\CourseCreateVM.cs",
+              "RelativeToolTip": "Simulation 2\\ViewModels\\CourseCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:25:48.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simulation 2\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Simulation 2\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T06:23:19.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Simulation 2\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Simulation 2\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:23:10.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Simulation 2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Simulation 2\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T06:21:17.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Areas\\Admin\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Simulation 2\\Areas\\Admin\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Simulation 2\\Simulation 2\\Areas\\Admin\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Simulation 2\\Areas\\Admin\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:12:25.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
