@@ -20,7 +20,7 @@ namespace Simulation_2.Areas.Admin.Controllers
         {
             _context = context;
             _environment = environment;
-            _folderPath = Path.Combine(_environment.WebRootPath,"images");
+            _folderPath = Path.Combine(_environment.WebRootPath,"img");
         }
 
         public async Task<IActionResult> Index()

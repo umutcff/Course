@@ -925,6 +925,7 @@ wwwroot\img\course\course7.jpg
 wwwroot\img\course\course8.jpg
 wwwroot\img\course\course9.jpg
 wwwroot\img\course\courses-details.jpg
+wwwroot\img\de525a9a-86e2-47ff-895c-d4960079baf5bird.jpg
 wwwroot\img\event\event-details.jpg
 wwwroot\img\event\event1.jpg
 wwwroot\img\event\event10.jpg

@@ -1,0 +1,21 @@
+﻿@model CourseUpdateVM
+
+<form method="post" enctype="multipart/form-data">
+	<div class="form-group">
+		<label asp-for="Tittle">Tittle</label>
+		<input asp-for="Tittle" placeholder="Enter Tittle">
+		<span asp-validation-for="Tittle"></span>
+	</div>
+	<div class="form-group">
+		<label asp-for="Description">Description</label>
+		<input asp-for="Description" placeholder="Enter Description">
+		<span asp-validation-for="Description"></span>
+	</div>
+	<div class="form-group">
+		<label asp-for="Image">Image</label>
+		<input asp-for="Image" placeholder="">
+		<span asp-validation-for="Image"></span>
+	</div>
+
+	<button type="submit" class="btn btn-primary">Submit</button>
+</form>
